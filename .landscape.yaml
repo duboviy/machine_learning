@@ -5,3 +5,7 @@ pylint:
     - W0613
     - E0602
     - R0913
+
+pyflakes:
+  disable:
+    - F821
