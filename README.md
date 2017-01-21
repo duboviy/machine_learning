@@ -6,7 +6,7 @@ by [Eugene Duboviy](https://duboviy.github.io/)
 
 A sandbox for trying out machine learning algorithms.
 
-<img src="https://raw.githubusercontent.com/duboviy/machine_learning/master/logo.jpg" height=85 alt="logo" title="logo">
+<img src="https://raw.githubusercontent.com/duboviy/machine_learning/master/logo.jpg" alt="logo" title="logo">
 
 ## License
 
