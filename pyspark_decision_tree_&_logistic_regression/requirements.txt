@@ -1,0 +1,8 @@
+findspark
+numpy
+
+### You also need create pyspark profile for ipython:
+### http://stackoverflow.com/questions/29783520/create-pyspark-profile-for-ipython
+
+### To install pyspark:
+### https://www.dataquest.io/blog/pyspark-installation-guide/
