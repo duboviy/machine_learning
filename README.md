@@ -1,8 +1,6 @@
 <h1>machine_learning</h1>
 
-by [Eugene Duboviy](https://duboviy.github.io/)
-
-[![Code Health](https://landscape.io/github/duboviy/machine_learning/master/landscape.svg?style=flat)](https://landscape.io/github/duboviy/machine_learning/master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/68558beaabe34af586ecd57534e2365c)](https://www.codacy.com/app/dubovoy/machine_learning?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/machine_learning&amp;utm_campaign=Badge_Grade) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/machine_learning/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/machine_learning/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/machine_learning/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/68558beaabe34af586ecd57534e2365c)](https://www.codacy.com/app/dubovoy/machine_learning?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/machine_learning&amp;utm_campaign=Badge_Grade) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/machine_learning/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/machine_learning/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/machine_learning/)
 
 A sandbox for trying out machine learning algorithms.
 
