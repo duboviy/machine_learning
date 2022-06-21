@@ -1,6 +1,6 @@
 python-dateutil==2.5.2
 pytz==2016.3
-numpy==1.11.0
+numpy==1.22.0
 pandas==0.18.0
 scikit-learn==0.17.1
 scipy==0.17.0
